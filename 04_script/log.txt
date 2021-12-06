@@ -1,0 +1,50 @@
+20211113_1217: deleted 20211113_1210_A Lars Sundt Verne Kloster.dbf in 02_konvertert
+20211113_1217: deleted 20211113_1210_A Lars Sundt Verne Kloster.shx in 02_konvertert
+20211113_1217: deleted 20211113_1210_A Lars Sundt Verne Kloster.shp in 02_konvertert
+20211113_1217: A Lars Sundt Verne Kloster.csv detected, conversion started
+20211113_1217: deleted 20211113_1217_A Lars Sundt Verne Kloster.prj in 02_konvertert
+20211113_1217: deleted 20211113_1217_A Lars Sundt Verne Kloster.shx in 02_konvertert
+20211113_1217: deleted 20211113_1217_A Lars Sundt Verne Kloster.shp in 02_konvertert
+20211113_1217: deleted 20211113_1217_A Lars Sundt Verne Kloster.dbf in 02_konvertert
+20211113_1217: Villmyra.shp detected, conversion started
+20211113_1218: Villmyra.shp detected, conversion started
+20211113_1219: deleted 20211113_1218_Villmyra.dxf in 02_konvertert
+20211113_1231: deleted Untitled.ipynb in 02_konvertert
+20211113_1231: Villmyra.shp detected, conversion started
+20211113_1232: deleted 20211113_1231_Villmyra.dxf in 02_konvertert
+20211113_1232: gran.tif detected, beginning conversion
+20211113_1234: deleted .DS_Store in 02_konvertert
+20211113_1234: gran.tif detected, beginning conversion
+20211113_1240: deleted 20211113_1234_gran.csv in 02_konvertert
+20211113_1240: Villmyra.shp detected, conversion started
+20211113_1341: deleted 20211113_1240_Villmyra.dxf in 02_konvertert
+20211113_1341: A Lars Sundt Verne Kloster.csv detected, conversion started
+20211113_1633: deleted 20211113_1341_A Lars Sundt Verne Kloster.shx in 02_konvertert
+20211113_1633: deleted 20211113_1341_A Lars Sundt Verne Kloster.shp in 02_konvertert
+20211113_1633: deleted 20211113_1341_A Lars Sundt Verne Kloster.dbf in 02_konvertert
+20211113_1633: deleted 20211113_1341_A Lars Sundt Verne Kloster.prj in 02_konvertert
+20211113_1633: deleted Arkiv.zip in 02_konvertert
+20211113_1633: gran.tif detected, beginning conversion
+20211115_1238: deleted 20211113_1633_gran.csv in 02_konvertert
+20211115_1238: Kai:Engebret.tif detected, beginning conversion
+20211115_1541: deleted 20211115_1238_Kai:Engebret.csv in 02_konvertert
+20211115_1541: gran.tif detected, beginning conversion
+20211115_1548: deleted 20211115_1541_gran.csv in 02_konvertert
+20211115_1548: gran.tif detected, beginning conversion
+20211115_1558: deleted 20211115_1548_gran.csv in 02_konvertert
+20211115_1558: gran.tif detected, beginning conversion
+20211115_1604: deleted 20211115_1558_gran.csv in 02_konvertert
+20211115_1604: gran.tif detected, beginning conversion
+20211115_1604: ... file succesfully converted.
+20211115_1948: deleted 20211115_1604_gran.csv in 02_konvertert
+20211115_1948: dtm1.tif detected, beginning conversion
+20211115_1948: ... file succesfully converted.
+20211122_1005: deleted 20211115_1948_dtm1.csv in 02_konvertert
+20211122_1005: deleted 20211115_1948_dtm1.csv in 02_konvertert
+20211122_1005: Gran.shp detected, conversion started
+20211122_1005: Gran.shp detected, conversion started
+20211122_1202: deleted 20211122_1005_Gran.dxf in 02_konvertert
+20211122_1202: bjorn2.shp detected, conversion started
+20211122_2114: deleted 20211122_1202_bjorn2.dxf in 02_konvertert
+20211122_2114: sommerstad.tif detected, beginning conversion
+20211122_2114: ... file succesfully converted.
